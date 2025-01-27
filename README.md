@@ -31,7 +31,7 @@ pip install requests beautifulsoup4 lxml
 
 1. **Clone this repository** to your local machine:
    ```bash
-   git clone [https://github.com/NiyatiP10/Scraping-Amazon-Product-Information-using-Beautiful-Soup.git]
+   git clone https://github.com/NiyatiP10/Scraping-Amazon-Product-Information-using-Beautiful-Soup.git
    cd Scraping-Amazon-Product-Information-using-Beautiful-Soup
    ```
 
